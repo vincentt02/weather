@@ -6,4 +6,5 @@ Axios was used for api requests. <br />
 
 The api key was removed from the version uploaded to github.
 
-![weather-appProjectImage](https://user-images.githubusercontent.com/90940496/183267855-a0513d84-cd46-46b6-96a0-3e68f94b0602.png)
+
+![weatherAppProjectImage](https://user-images.githubusercontent.com/90940496/183268039-b1235f26-b2e5-4341-88d5-b8f096dbf277.png)
